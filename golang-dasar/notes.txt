@@ -1,0 +1,11 @@
+panic.go -> tidak ada try catch di golang, pakainya (defer, panic, recover)
+
+any.go -> golang tidak oop seperti javascript / java, dia menggunakan **interface{}** / **any** yang tipe datanya bisa diisi apa saja. Dan tipe data tertinggi / parent nya adalah ini -> any / interface{}
+
+pointer -> return by value & return by reference (func dll..)
+
+asterisk_operator.go -> mengubah semua value
+
+new.go -> lebih banyak yang menggunakan new(Address) daripada &Adress
+
+pointer_method.go -> sangan direkomendasikan untuk method harus selalu menggunakan pointer = *

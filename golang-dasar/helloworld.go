@@ -1,19 +1,17 @@
 package main
 
-import "fmt"
+// func main() {
+// 	// name := "Eko Kurniawan"
+// 	// fmt.Println(name)
 
-func main() {
-	// name := "Eko Kurniawan"
-	// fmt.Println(name)
+// 	// name = "eko Khannedy"
+// 	// fmt.Println(name)
 
-	// name = "eko Khannedy"
-	// fmt.Println(name)
+// 	var (
+// 		firstName = "Arya"
+// 		lastName  = "Fadhil"
+// 	)
 
-	var (
-		firstName = "Arya"
-		lastName  = "Fadhil"
-	)
-
-	fmt.Println(firstName)
-	fmt.Println(lastName)
-}
+// 	fmt.Println(firstName)
+// 	fmt.Println(lastName)
+// }
