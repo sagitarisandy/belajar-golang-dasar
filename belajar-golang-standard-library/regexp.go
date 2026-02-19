@@ -13,7 +13,5 @@ func main() {
 	fmt.Println(regex.MatchString("eKo"))
 
 	fmt.Println(regex.FindAllString("eko edo egi ego e1o eto eKo", 10))
-	// Day 7
 	// Day 8
-	// Day 9
 }
